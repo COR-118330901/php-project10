@@ -24,7 +24,7 @@ body {
  
        </style>
         <div class="form">
-            <form id="form" name="intCalc" method="post" action="Ebus2.php">
+            <form id="form" name="intCalc" method="post" action="EBus2.php">
                 <h1 style="color:white;"><centre>Service Calculator</centre></h1>   
         <hr/>
         <center>
